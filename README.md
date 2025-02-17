@@ -8,9 +8,9 @@ I'm Thomas Cargill, a computer science student at Florida Atlantic University wi
 - 📫 How to reach me: tcargill2023@gmail.com
 
 ## 🚀 Skills
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![SQL](https://img.shields.io/badge/-SQL-orange) ![C++](https://img.shields.io/badge/-C++-00599C) ![C](https://img.shields.io/badge/-C-00599C) ![HTML](https://img.shields.io/badge/-HTML-E34F26) ![CSS](https://img.shields.io/badge/-CSS-1572B6)
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![C++](https://img.shields.io/badge/-C++-00599C) ![C](https://img.shields.io/badge/-C-00599C) ![HTML](https://img.shields.io/badge/-HTML-E34F26) ![CSS](https://img.shields.io/badge/-CSS-1572B6)
 - **Frameworks**: React, Flask, Express.js, jQuery
-- **Tools**: Git, Docker, Heroku, AWS
+- **Tools**: Git, Render, AWS
 
 ## 📂 Projects
 - [Book Search Web App](https://github.com/tcargill1/book-search) - A web application to search and find books using the Google Books API.
